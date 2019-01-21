@@ -4,8 +4,8 @@
 @import url("https://iampetoux.github.io/DreamFrameRAW.theme.css");
 :root {
     /* Background */
-    --custombackground: url(https://i.imgur.com/LgkASci.jpg); /* Change the background */
-    --blur: 5px !important; /* Adjust the amount of blur on the background */
+    --custombackground: url(https://i.imgur.com/L4kc7HW.png); /* Change the background */
+    --blur: 3px !important; /* Adjust the amount of blur on the background */
     --opacitybg: 0.5 !important; /* Change the transparency of the background. This is what controls the black overlay that is over the background */
 
     /* Accent Colors */
