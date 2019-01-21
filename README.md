@@ -1,2 +1,2 @@
-# kartoffeltheme
-Discord Theme for my server Kartoffel
+# KartoffelTheme
+Thème Discord pour le serveur Kartoffel.
